@@ -18,6 +18,4 @@
       }
     ]
     
-  https://www.youtube.com/watch?v=vso3L9axdwA&t=6s
   
- 
